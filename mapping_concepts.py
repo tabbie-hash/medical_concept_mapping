@@ -10,7 +10,7 @@ pd.options.mode.chained_assignment = None
 #USING THIS OPEN-SOURCE LIBRARY AS IT'S WAS QUICK WITH REGISTRATION UNLIKE UMLS 
 BIO_URL = "http://data.bioontology.org"    
 #you may replace this with your api key from the bioportal account        
-BIO_API_KEY = "48f59bb6-62d2-4fe6-b7df-b293e4d79a70"        
+BIO_API_KEY = "INSERT_KEY"        
 RX_URL = 'https://rxnav.nlm.nih.gov/REST/'
 directory = os.path.dirname(os.path.abspath(__file__))
 
